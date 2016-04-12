@@ -11,5 +11,6 @@
 	<classpathentry kind="lib" path="/JAX-RS/javax.json-1.0.4.jar"/>
 	<classpathentry kind="lib" path="/JAX-RS/javax.json-api-1.0.jar"/>
 	<classpathentry kind="lib" path="jedis-2.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bart/Google Drive/School/2015-2016/Webtech3/WebtechWorkspace/JAX-RS-Prof/WebContent/WEB-INF/lib/javax.ws.rs-api-2.0.1.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
