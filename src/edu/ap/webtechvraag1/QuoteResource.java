@@ -10,7 +10,8 @@ import redis.clients.jedis.*;
 
 @Path("/quotes")
 public class QuoteResource {
-	
+	//SET statement:
+	//HMSET quotes "Joske" "To be or not to be" "Eddy Wally" "Waauw"
 	Jedis jedis;
 	
 	@GET
